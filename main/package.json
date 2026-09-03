@@ -1,8 +1,0 @@
-{
-  "name": "duo-questionnaire",
-  "private": true,
-  "dependencies": {
-    "@netlify/blobs": "^8",
-    "@netlify/functions": "^2"
-  }
-}
